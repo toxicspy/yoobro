@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "npm --prefix ./code-connect run dev",
     "build": "npm --prefix ./code-connect run build",
+    "vercel-build": "npm --prefix ./code-connect run build",
     "preview": "npm --prefix ./code-connect run preview",
     "test": "npm --prefix ./code-connect run test"
   }

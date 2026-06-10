@@ -1,4 +1,4 @@
 {
-  "buildCommand": "cd code-connect && npm run build",
+  "buildCommand": "npm run vercel-build",
   "outputDirectory": "code-connect/dist"
 }
